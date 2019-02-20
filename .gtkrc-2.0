@@ -1,0 +1,11 @@
+gtk-theme-name="Flat-Remix-GTK-Darker-Solid"
+gtk-icon-theme-name="NineIcons"
+gtk-font-name="DejaVu Sans 11"
+gtk-cursor-theme-name="capitaine-cursors"
+gtk-xft-antialias=1
+gtk-xft-hinting=1
+gtk-xft-hintstyle="hintfull"
+gtk-xft-rgba="rgb"
+gtk-xft-dpi=192
+gtk-icon-sizes = "panel-menu=64,64:panel=64,64:gtk-menu=64,64\
+:gtk-large-toolbar=64,64:gtk-small-toolbar=64,64:gtk-button=64,64"
