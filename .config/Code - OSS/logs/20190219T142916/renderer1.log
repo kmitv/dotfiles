@@ -1,0 +1,60 @@
+[2019-02-19 14:29:19.135] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-19 14:32:07.620] [renderer1] [warning] UNRESPONSIVE extension host, 'James-Yu.latex-workshop' took 94% of 498.283ms, saved PROFILE here: '/tmp/exthost-6d85dc.cpuprofile' [{"id":"gc","total":17579,"percentage":4},{"id":"James-Yu.latex-workshop","total":469013,"percentage":94},{"id":"program","total":919,"percentage":0},{"id":"self","total":3094,"percentage":1},{"id":"vscode.merge-conflict","total":305,"percentage":0}]
+[2019-02-19 15:53:43.168] [renderer1] [error] Invalid regular expression: /\\usepackage(?:\[[^\[\]\{\}]*\])?\{[\w,]*eq:metst})[\w,]*\}/: Unmatched ')': SyntaxError: Invalid regular expression: /\\usepackage(?:\[[^\[\]\{\}]*\])?\{[\w,]*eq:metst})[\w,]*\}/: Unmatched ')'
+	at new RegExp (<anonymous>)
+	at Object.module.exports.t.onAPackage (/home/wojtek/.vscode-oss/extensions/james-yu.latex-workshop-5.21.0/out/src/main.js:137:71140)
+	at module.exports.t.HoverProvider.provideHover.Promise (/home/wojtek/.vscode-oss/extensions/james-yu.latex-workshop-5.21.0/out/src/main.js:371:162057)
+	at new Promise (<anonymous>)
+	at module.exports.t.HoverProvider.provideHover (/home/wojtek/.vscode-oss/extensions/james-yu.latex-workshop-5.21.0/out/src/main.js:371:161592)
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:554:595
+	at t.asThenable (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:141:941)
+	at new Promise (<anonymous>)
+	at Object.t.asThenable (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:141:909)
+	at e.provideHover (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:554:554)
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:570:950
+	at e._withAdapter (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:567:513)
+	at e.$provideHover (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:570:912)
+	at t._doInvokeHandler (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:658:837)
+	at t._invokeHandler (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:658:509)
+	at t._receiveRequest (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:657:60)
+	at t._receiveOneMessage (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:656:59)
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:653:895
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:130:793
+	at e.fire (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:133:218)
+	at a (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:186:147)
+	at Socket.n._socketDataListener (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:186:368)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at addChunk (_stream_readable.js:263:12)
+	at readableAddChunk (_stream_readable.js:250:11)
+	at Socket.Readable.push (_stream_readable.js:208:10)
+	at Pipe.onread (net.js:594:20)
+[2019-02-19 16:08:46.737] [renderer1] [error] Invalid regular expression: /\\usepackage(?:\[[^\[\]\{\}]*\])?\{[\w,]*(wymiawamy[\w,]*\}/: Unterminated group: SyntaxError: Invalid regular expression: /\\usepackage(?:\[[^\[\]\{\}]*\])?\{[\w,]*(wymiawamy[\w,]*\}/: Unterminated group
+	at new RegExp (<anonymous>)
+	at Object.module.exports.t.onAPackage (/home/wojtek/.vscode-oss/extensions/james-yu.latex-workshop-5.21.0/out/src/main.js:137:71140)
+	at module.exports.t.HoverProvider.provideHover.Promise (/home/wojtek/.vscode-oss/extensions/james-yu.latex-workshop-5.21.0/out/src/main.js:371:162057)
+	at new Promise (<anonymous>)
+	at module.exports.t.HoverProvider.provideHover (/home/wojtek/.vscode-oss/extensions/james-yu.latex-workshop-5.21.0/out/src/main.js:371:161592)
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:554:595
+	at t.asThenable (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:141:941)
+	at new Promise (<anonymous>)
+	at Object.t.asThenable (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:141:909)
+	at e.provideHover (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:554:554)
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:570:950
+	at e._withAdapter (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:567:513)
+	at e.$provideHover (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:570:912)
+	at t._doInvokeHandler (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:658:837)
+	at t._invokeHandler (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:658:509)
+	at t._receiveRequest (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:657:60)
+	at t._receiveOneMessage (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:656:59)
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:653:895
+	at /usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:130:793
+	at e.fire (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:133:218)
+	at a (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:186:147)
+	at Socket.n._socketDataListener (/usr/lib/code/out/vs/workbench/node/extensionHostProcess.js:186:368)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at addChunk (_stream_readable.js:263:12)
+	at readableAddChunk (_stream_readable.js:250:11)
+	at Socket.Readable.push (_stream_readable.js:208:10)
+	at Pipe.onread (net.js:594:20)

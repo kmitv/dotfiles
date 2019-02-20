@@ -1,0 +1,6 @@
+[2019-02-18 19:30:49.200] [renderer1] [info] no standard startup: not just one text editor
+[2019-02-18 19:31:52.803] [renderer1] [info] no standard startup: not running latest version
+[2019-02-18 19:34:19.292] [renderer1] [error] Permission denied writing to file (file:///home/wojtek/.config/termite/config): Error: Permission denied writing to file (file:///home/wojtek/.config/termite/config)
+    at new t (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1474:150)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:3429:162
+    at <anonymous>

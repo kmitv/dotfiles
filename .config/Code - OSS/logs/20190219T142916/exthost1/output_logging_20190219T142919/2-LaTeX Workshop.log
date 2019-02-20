@@ -1,0 +1,397 @@
+[14:32:03] Initializing LaTeX Workshop.
+[14:32:03] Creating LaTeX Workshop http and websocket server.
+[14:32:03] LaTeX Workshop initialized.
+[14:32:07] Server created on 127.0.0.1:37037
+[14:32:07] LaTeX Workshop version: 5.21.0
+[14:32:07] Snippet data loaded.
+[14:32:08] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[14:32:08] Found root file from active editor: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:32:08] Root file changed from: undefined. Find all dependencies.
+[14:32:08] Instatiating new file watcher for /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:32:08] Adding /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex to file watcher.
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[14:32:08] Adding /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex to file watcher.
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[14:32:08] Adding /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex to file watcher.
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[14:32:08] Adding /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex to file watcher.
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[14:32:08] Adding /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex to file watcher.
+[14:32:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[14:32:08] Found .bib file /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib
+[14:32:08] Creating file watcher for .bib files.
+[14:32:08] Adding .bib file /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib to bib file watcher.
+[14:32:08] Parsing .bib entries from /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib
+[14:32:08] Parsed 26 .bib entries from /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib.
+[14:32:16] VIEW command invoked.
+[14:32:16] Found root file from active editor: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:32:16] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[14:32:16] Serving PDF file at http://127.0.0.1:37037/viewer.html?file=/pdf:%25252Fhome%25252Fwojtek%25252FDokumenty%25252FPraca%252520magisterska%25252Fpraca.pdf
+[14:32:16] Open PDF tab for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[14:32:17] Preview PDF file: /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[14:35:55] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:35:55] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:35:55] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[14:35:55] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[14:35:55] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[14:35:55] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[14:35:55] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[14:35:55] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:35:55] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[14:36:19] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:36:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:36:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[14:36:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[14:36:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[14:36:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[14:36:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[14:36:19] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:36:19] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[14:36:26] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:36:26] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:36:26] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[14:36:26] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[14:36:26] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[14:36:26] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[14:36:26] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[14:36:26] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[14:36:26] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:12:19] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:12:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:12:19] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:12:19] BUILD command invoked.
+[15:12:19] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:12:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:12:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:12:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:12:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:12:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:12:19] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:12:19] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:12:19] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:12:19] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:12:19] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:12:19] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:12:21] LaTeX log parsed with 8 messages.
+[15:12:21] Recipe of length 1 finished.
+[15:12:21] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:12:21] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:16:42] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:16:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:16:42] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:16:42] BUILD command invoked.
+[15:16:42] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:16:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:16:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:16:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:16:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:16:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:16:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:16:42] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:16:42] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:16:42] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:16:42] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:16:42] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:16:44] LaTeX log parsed with 8 messages.
+[15:16:44] Recipe of length 1 finished.
+[15:16:44] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:16:44] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:20:52] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:20:52] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:20:52] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:20:52] BUILD command invoked.
+[15:20:52] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:20:52] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:20:52] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:20:52] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:20:52] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:20:52] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:20:52] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:20:52] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:20:52] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:20:52] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:20:52] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:20:52] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:20:58] LaTeX log parsed with 8 messages.
+[15:20:58] Recipe of length 1 finished.
+[15:20:58] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:20:58] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:23:37] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:23:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:23:37] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:23:37] BUILD command invoked.
+[15:23:37] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:23:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:23:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:23:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:23:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:23:37] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:37] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:23:37] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:37] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:37] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:23:39] LaTeX log parsed with 8 messages.
+[15:23:39] Recipe of length 1 finished.
+[15:23:39] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:39] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:23:56] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:23:56] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:23:56] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:23:56] BUILD command invoked.
+[15:23:56] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:56] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:56] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:23:56] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:23:56] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:23:56] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:23:56] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:23:56] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:56] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:23:56] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:56] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:56] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:23:58] LaTeX log parsed with 8 messages.
+[15:23:58] Recipe of length 1 finished.
+[15:23:58] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:23:58] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:24:08] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:24:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:24:08] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:24:08] BUILD command invoked.
+[15:24:08] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:24:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:24:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:24:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:24:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:24:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:24:08] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:24:08] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:24:08] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:24:08] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:24:08] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:24:08] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:24:10] LaTeX log parsed with 8 messages.
+[15:24:10] Recipe of length 1 finished.
+[15:24:10] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:24:10] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:36:53] Bib file watcher - responding to change in /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib
+[15:36:53] Parsing .bib entries from /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib
+[15:36:53] Parsed 27 .bib entries from /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib.
+[15:37:02] Bib file watcher - responding to change in /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib
+[15:37:02] Parsing .bib entries from /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib
+[15:37:02] Parsed 27 .bib entries from /home/wojtek/Dokumenty/Praca magisterska/bibliografia.bib.
+[15:51:37] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:51:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:51:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:51:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:51:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:51:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:51:37] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:51:37] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:51:37] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:52:11] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:52:11] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:52:11] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:52:11] BUILD command invoked.
+[15:52:11] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:52:11] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:52:11] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:52:11] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:52:11] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:52:11] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:52:11] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:52:11] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:52:11] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:52:11] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:52:11] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:52:11] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:52:18] LaTeX log parsed with 9 messages.
+[15:52:18] Recipe of length 1 finished.
+[15:52:18] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:52:18] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:53:42] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:42] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:53:42] BUILD command invoked.
+[15:53:42] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:53:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:53:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:53:42] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:53:42] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:42] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:53:42] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:42] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:42] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:53:49] LaTeX log parsed with 9 messages.
+[15:53:49] Recipe of length 1 finished.
+[15:53:49] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:49] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[15:53:50] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:50] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:50] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[15:53:50] BUILD command invoked.
+[15:53:50] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:50] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:50] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:50] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[15:53:50] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[15:53:50] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[15:53:50] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[15:53:50] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:50] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[15:53:50] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:50] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:50] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[15:53:53] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:53] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[15:53:55] LaTeX log parsed with 8 messages.
+[15:53:55] Recipe of length 1 finished.
+[15:53:55] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[15:53:55] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:05:02] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:05:02] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:05:02] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[16:05:02] BUILD command invoked.
+[16:05:02] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:05:02] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:05:02] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:05:02] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[16:05:02] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[16:05:02] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[16:05:02] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[16:05:02] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:05:02] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[16:05:02] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:05:02] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:05:02] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[16:05:04] LaTeX log parsed with 8 messages.
+[16:05:04] Recipe of length 1 finished.
+[16:05:04] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:05:04] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:08:28] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:08:28] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:08:28] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[16:08:28] BUILD command invoked.
+[16:08:28] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:08:28] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:08:28] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:08:28] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[16:08:28] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[16:08:28] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[16:08:28] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[16:08:28] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:08:28] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[16:08:28] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:08:28] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:08:28] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[16:08:30] LaTeX log parsed with 8 messages.
+[16:08:30] Recipe of length 1 finished.
+[16:08:30] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:08:30] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:25:01] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:25:01] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:25:01] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[16:25:01] BUILD command invoked.
+[16:25:01] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:25:01] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:25:01] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:25:01] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[16:25:01] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[16:25:01] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[16:25:01] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[16:25:01] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:25:01] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[16:25:01] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:25:01] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:25:01] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[16:25:06] LaTeX log parsed with 8 messages.
+[16:25:06] Recipe of length 1 finished.
+[16:25:06] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:25:06] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:53:09] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[16:53:09] BUILD command invoked.
+[16:53:09] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:53:09] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:53:09] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:09] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:09] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:53:09] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[16:53:09] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[16:53:09] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[16:53:09] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[16:53:09] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:09] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[16:53:09] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:09] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:10] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[16:53:12] LaTeX log parsed with 8 messages.
+[16:53:12] Recipe of length 1 finished.
+[16:53:12] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:12] No PDF viewer connected for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:53:16] VIEW command invoked.
+[16:53:16] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:16] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:16] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:53:16] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[16:53:16] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[16:53:16] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[16:53:16] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[16:53:16] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:53:16] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[16:53:16] Serving PDF file at http://127.0.0.1:37037/viewer.html?file=/pdf:%25252Fhome%25252Fwojtek%25252FDokumenty%25252FPraca%252520magisterska%25252Fpraca.pdf
+[16:53:16] Open PDF tab for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:53:18] Preview PDF file: /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:58:14] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:58:14] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:58:14] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[16:58:14] BUILD command invoked.
+[16:58:14] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:14] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:14] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:58:14] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[16:58:14] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[16:58:14] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[16:58:14] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[16:58:14] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:14] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[16:58:14] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:14] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:14] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[16:58:17] LaTeX log parsed with 8 messages.
+[16:58:17] Recipe of length 1 finished.
+[16:58:17] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:17] Refresh PDF viewer for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:58:18] Preview PDF file: /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:58:48] File watcher: responding to change in /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:58:48] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:58:48] Auto-build /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex upon save.
+[16:58:48] BUILD command invoked.
+[16:58:48] Try root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:48] Parsing /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:48] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial1.tex
+[16:58:48] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial2.tex
+[16:58:48] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial3.tex
+[16:58:48] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial4.tex
+[16:58:48] Parsing /home/wojtek/Dokumenty/Praca magisterska/rozdzial5.tex
+[16:58:48] Found root file in root directory: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:48] Root file remains unchanged from: /home/wojtek/Dokumenty/Praca magisterska/praca.tex.
+[16:58:48] Building root file: /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:48] Build root file /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:48] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/wojtek/Dokumenty/Praca magisterska,/home/wojtek/Dokumenty/Praca magisterska/praca
+[16:58:51] LaTeX log parsed with 8 messages.
+[16:58:51] Recipe of length 1 finished.
+[16:58:51] Successfully built /home/wojtek/Dokumenty/Praca magisterska/praca.tex
+[16:58:51] Refresh PDF viewer for /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
+[16:58:52] Preview PDF file: /home/wojtek/Dokumenty/Praca magisterska/praca.pdf
