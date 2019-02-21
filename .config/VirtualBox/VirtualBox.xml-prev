@@ -9,14 +9,20 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="n=GLOBAL"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="401,226,800,450"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="264,535"/>
+      <ExtraDataItem name="GUI/HideDescriptionForWizards" value="NewVM"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=Mojave"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="158,172,800,450"/>
+      <ExtraDataItem name="GUI/RecentFolderHD" value="/home/wojtek/Pobrane/macOS Mojave Final HFS by Geekrar"/>
+      <ExtraDataItem name="GUI/RecentListHD" value="/home/wojtek/Pobrane/macOS Mojave Final HFS by Geekrar/macOS Mojave Final HFS by Geekrar.vmdk"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="251,548"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="2"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-02-19, stable, 6.0.2"/>
+      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="3"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-02-22, stable, 6.0.4"/>
     </ExtraData>
-    <MachineRegistry/>
+    <MachineRegistry>
+      <MachineEntry uuid="{80720a0c-1d81-441a-9536-20eee0203934}" src="/home/wojtek/VirtualBox VMs/Mojave/Mojave.vbox"/>
+    </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>

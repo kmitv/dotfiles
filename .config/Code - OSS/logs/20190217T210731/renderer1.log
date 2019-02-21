@@ -1,2 +1,0 @@
-[2019-02-17 21:07:35.041] [renderer1] [info] no standard startup: not just one window
-[2019-02-17 21:07:45.501] [renderer1] [error] doSave(0) - exit - resulted in a save error: Error: Permission denied writing to file (file:///home/wojtek/.config/polybar/launch.sh) {"$mid":1,"fsPath":"/home/wojtek/.config/polybar/launch.sh","external":"file:///home/wojtek/.config/polybar/launch.sh","path":"/home/wojtek/.config/polybar/launch.sh","scheme":"file"}

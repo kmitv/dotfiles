@@ -7,12 +7,12 @@
         "lastActiveWindow": {
             "folderUri": {
                 "$mid": 1,
-                "fsPath": "/home/wojtek/Dokumenty/Praca magisterska",
-                "external": "file:///home/wojtek/Dokumenty/Praca%20magisterska",
-                "path": "/home/wojtek/Dokumenty/Praca magisterska",
+                "fsPath": "/home/wojtek/Dokumenty/CV",
+                "external": "file:///home/wojtek/Dokumenty/CV",
+                "path": "/home/wojtek/Dokumenty/CV",
                 "scheme": "file"
             },
-            "backupPath": "/home/wojtek/.config/Code - OSS/Backups/db47864f3c57f70b46634b7c4e634c95",
+            "backupPath": "/home/wojtek/.config/Code - OSS/Backups/575228ccb0e68be54ff6cf3f9c488bc6",
             "uiState": {
                 "mode": 1,
                 "x": 15,
@@ -1213,9 +1213,12 @@
             }
         }
     },
-    "pickerWorkingDir": "/home/wojtek/Dokumenty",
+    "pickerWorkingDir": "/home/wojtek/.config",
     "openedPathsList": {
         "workspaces2": [
+            "file:///home/wojtek/Dokumenty/CV",
+            "file:///home/wojtek/.config/polybar",
+            "file:///home/wojtek/.config/polybar/scripts",
             "file:///home/wojtek/Dokumenty/Praca%20magisterska",
             "file:///home/wojtek/Dokumenty/CV/fancy",
             "file:///home/wojtek/Pobrane",
@@ -1225,6 +1228,8 @@
             "file:///home/wojtek/.i3"
         ],
         "files2": [
+            "file:///home/wojtek/Dokumenty/arcolinux-polybar/polybar/scripts/weather.py",
+            "file:///home/wojtek/.config/polybar/scripts/weather.py",
             "file:///home/wojtek/.bashrc"
         ]
     }
